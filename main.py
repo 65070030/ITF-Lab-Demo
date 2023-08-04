@@ -3,3 +3,5 @@
 def main():
     '''module string'''
     print("Hello World")
+
+main()
